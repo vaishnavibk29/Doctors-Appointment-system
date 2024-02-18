@@ -1,2 +1,2 @@
-# My_Projects
+# Doctors appointment system 
 doctors appointment system using MERN stack
